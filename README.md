@@ -1,15 +1,9 @@
 # PC meter
 
-## setup
-
-```
-pip install -r requirements.txt
-```
-
 ## run
 
 ```
-python print_temp.py
+python get_pc_status.py
 ```
 
 ## License
